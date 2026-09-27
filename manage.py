@@ -10,7 +10,7 @@ def main():
         'DJANGO_SETTINGS_MODULE',
         os.getenv(
             'DJANGO_SETTINGS_MODULE',
-            'EscalaFacil.settings.local'
+            'config.settings.local'
         )
     )
     try:
