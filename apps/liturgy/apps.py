@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class LiturgyConfig(AppConfig):
-    name = 'liturgy'
+    name = 'apps.liturgy'
