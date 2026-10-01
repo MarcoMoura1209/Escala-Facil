@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'apps.accounts.apps.AccountsConfig',
     'apps.members.apps.MembersConfig',
     'apps.liturgy.apps.LiturgyConfig',
+    'apps.schedules.apps.SchedulesConfig',
 ]
 
 MIDDLEWARE = [
